@@ -9,6 +9,7 @@
 Tools and studies for fast simulation of calorimeter showers: detailed
 Geant4 / DD4hep simulation, compact point-cloud representations of the showers,
 and their use as input to machine-learning-based fast simulation.
+Trained weights are on [Hugging Face](https://huggingface.co/fast-sim).
 
 <p align="center">
   <img src="step2point-shower.png" alt="One 10 GeV photon shower in the Open Data Detector: 3,604 Geant4 steps, 365 points after merging within cells, 266 points after HDBSCAN clustering" width="900">
