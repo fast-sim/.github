@@ -23,7 +23,6 @@ Most recent first, by arXiv date.
 
 | Paper | Journal | Code | Data and weights |
 |---|---|---|---|
-| Step2Point <!-- TODO: full title and arXiv link --> (in preparation) | | [`step2point`](https://github.com/fast-sim/step2point) <!-- TODO: add the CaloClouds-3 study repository --> | <!-- TODO: Hugging Face weights and Zenodo DOI --> |
 | step2point dataset: Detailed shower simulation for data representation studies, [arXiv:2509.22340](https://arxiv.org/abs/2509.22340) ([CDS](https://cds.cern.ch/record/2948746)) | | [`step2point`](https://github.com/fast-sim/step2point) | Zenodo, [doi:10.5281/zenodo.17199427](https://doi.org/10.5281/zenodo.17199427) |
 
 ## Datasets
